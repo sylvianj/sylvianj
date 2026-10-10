@@ -16,7 +16,7 @@
 
 <hr />
 
-<img align="right" height="300" width="320" alt="Woman coding at laptop" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" />
+<img align="right" height="300" width="320" alt="Woman coding while sitting on a chair" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" />
 
 ### About Me
 I am a full stack software developer who enjoys turning ideas into working, scalable digital products. My work spans web development, mobile applications, and emerging AI/ML solutions. I enjoy building clean user experiences, writing maintainable code, and solving real-world problems with technology.
