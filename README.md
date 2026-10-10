@@ -16,16 +16,16 @@
 
 <hr />
 
-<img align="right" height="300" width="320" alt="Woman coding while sitting on a chair" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" />
+<img align="right" height="300" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### About Me
 I am a full stack software developer who enjoys turning ideas into working, scalable digital products. My work spans web development, mobile applications, and emerging AI/ML solutions. I enjoy building clean user experiences, writing maintainable code, and solving real-world problems with technology.
 
 - 🔭 I build full-stack products and user-focused applications
 - 📱 I have experience in mobile development
-- 🤖 I’m exploring AI and Machine Learning solutions
-- 🌱 I’m continuously learning new tools, frameworks, and best practices
-- 👯 I’m open to collaborations and innovative projects
+- 🤖 I'm exploring AI and Machine Learning solutions
+- 🌱 I'm continuously learning new tools, frameworks, and best practices
+- 👯 I'm open to collaborations and innovative projects
 - 💬 I like discussing software architecture, product thinking, and AI-driven ideas
 - 📫 Email: sylvianjoki37@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sylvia-njoki-9128b926b
@@ -119,5 +119,5 @@ I am a full stack software developer who enjoys turning ideas into working, scal
 </p>
 
 <p align="center">
-  <strong>Let’s connect and build something amazing. 🚀</strong>
+  <strong>Let's connect and build something amazing. 🚀</strong>
 </p>
