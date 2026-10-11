@@ -1,7 +1,7 @@
 <h1 align="center">Sylvia Njoki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast;Building+practical+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+App+Developement;AI+%26+ML+Enthusiast;Building+practical+digital+solutions" alt="Typing SVG" />
 </p>
 
 <div align="center">
