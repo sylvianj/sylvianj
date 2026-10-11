@@ -16,7 +16,10 @@
 
 <hr />
 
-<img align="right" height="300" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<div align="right">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest"></script>
+  <lottie-player src="https://lottie.host/4d3f0b0f-a0d1-4d0a-8f1e-8b3c8e7d0f1a/qYz5X5F5X5.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+</div>
 
 ### About Me
 I am a full stack software developer who enjoys turning ideas into working, scalable digital products. My work spans web development, mobile applications, and emerging AI/ML solutions. I enjoy building clean user experiences, writing maintainable code, and solving real-world problems with technology.
@@ -131,3 +134,11 @@ I am a full stack software developer who enjoys turning ideas into working, scal
 <p align="center">
   <strong>Let's connect and build something amazing. 🚀</strong>
 </p>
+
+<div align="center">
+  <p>
+    <a href="https://iconscout.com/lottie-animations/female" target="_blank">Working on laptop</a> animation by 
+    <a href="https://iconscout.com/contributors/rockerzz" target="_blank">Rockerzz Animation Studio</a> on 
+    <a href="https://iconscout.com" target="_blank">IconScout</a>
+  </p>
+</div>
