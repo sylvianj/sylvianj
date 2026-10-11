@@ -1,7 +1,7 @@
 <h1 align="center">Sylvia Njoki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+App+Developement;AI+%26+ML+Enthusiast;Building+practical+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast;Building+practical+digital+solutions" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -109,6 +109,16 @@ I am a full stack software developer who enjoys turning ideas into working, scal
   <p>Open to work, collaborations, and building meaningful technology.</p>
   <a href="https://github.com/sylvianj?tab=repositories">
     <img src="https://img.shields.io/badge/View%20Repositories-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+</div>
+
+<hr />
+
+### Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="220" />
   </a>
 </div>
 
