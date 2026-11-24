@@ -16,7 +16,7 @@
 
 <hr />
 
-<img align="right" height="300" alt="Coding" src="https://github.com/sylvianj/sylvianj/blob/main/Working%20on%20laptop.mp4" />
+<img align="right" height="300" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### About Me
 I am a full stack software developer who enjoys turning ideas into working, scalable digital products. My work spans web development, mobile applications, and emerging AI/ML solutions. I enjoy building clean user experiences, writing maintainable code, and solving real-world problems with technology.
