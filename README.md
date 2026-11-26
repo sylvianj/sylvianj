@@ -16,9 +16,7 @@
 
 <hr />
 
-<video align="right" height="300" controls autoplay muted loop>
-  <source src="369865.mp4" type="video/mp4">
-</video>
+<img src="github_profile_readme.gif" alt="Profile Animation" width="100%" />
 ### About Me
 I am a full stack software developer who enjoys turning ideas into working, scalable digital products. My work spans web development, mobile applications, and emerging AI/ML solutions. I enjoy building clean user experiences, writing maintainable code, and solving real-world problems with technology.
 
